@@ -14,7 +14,8 @@
             "name": "test_set",
             "value": "test_value",
             "scope": "process"
-          }
+          },
+          "hash": {}
         }
       ]
     },
